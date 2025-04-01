@@ -23,7 +23,21 @@ export default function RootLayout({
 
   return (
     <html lang={locale} suppressHydrationWarning className='dark'>
-      <body className='relative mx-auto flex min-h-screen flex-col bg-tap4-black text-white'>
+      <head>
+        {/* Google Analytics */}
+        <script async src='https://www.googletagmanager.com/gtag/js?id=G-VE82D5Q35M' />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-VE82D5Q35M');
+            `,
+          }}
+        />
+      </head>
+      <body className='bg-tap4-black relative mx-auto flex min-h-screen flex-col text-white'>
         <NextIntlClientProvider locale={locale} messages={messages}>
           <Toaster
             position='top-center'
