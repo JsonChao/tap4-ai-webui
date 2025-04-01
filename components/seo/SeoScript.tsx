@@ -14,9 +14,7 @@ export default function SeoScript() {
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', '${GOOGLE_TRACKING_ID}', {
-            page_path: window.location.pathname,
-            });
+            gtag('config', '${GOOGLE_TRACKING_ID}');
           `,
         }}
       />

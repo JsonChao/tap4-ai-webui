@@ -1,8 +1,8 @@
-# ShipFaster (Tap4 AI) 开发者指南
+# ShipFaster 开发者指南
 
 ## 项目概述
 
-**项目名称**：ShipFaster (Tap4 AI)
+**项目名称**：ShipFaster
 
 **简要描述**：这是一个开源的AI工具导航网站项目，旨在帮助用户创建自己的AI工具目录，收集和展示自己喜欢的AI工具产品。项目轻量级且易于维护，适合对AI导航网站感兴趣的个人开发者以及学习Next.js的学习者。
 
@@ -23,12 +23,12 @@
 
 1. 克隆项目仓库
 ```bash
-git clone https://github.com/6677-ai/tap4-ai-webui.git
+git clone https://github.com/6677-ai/shipfaster-webui.git
 ```
 
 2. 进入项目目录
 ```bash
-cd tap4-ai-webui
+cd shipfaster-webui
 ```
 
 3. 使用正确的Node.js版本
@@ -410,6 +410,6 @@ graph TD
 
 ## 总结
 
-ShipFaster (Tap4 AI)是一个设计精良的AI工具导航网站项目，使用现代化的前端技术栈构建。项目结构清晰，代码组织合理，功能模块之间的依赖关系明确。通过使用Next.js的App Router和Supabase数据库，项目实现了高性能、SEO友好的AI工具展示平台，支持工具搜索、分类浏览和详情查看等核心功能。
+ShipFaster是一个设计精良的AI工具导航网站项目，使用现代化的前端技术栈构建。项目结构清晰，代码组织合理，功能模块之间的依赖关系明确。通过使用Next.js的App Router和Supabase数据库，项目实现了高性能、SEO友好的AI工具展示平台，支持工具搜索、分类浏览和详情查看等核心功能。
 
 对于新加入的开发人员，建议先熟悉项目的整体架构和主要功能模块，然后再深入了解具体的代码实现细节。项目的核心功能集中在AI工具数据的展示和交互上，而数据的获取和管理则通过Supabase数据库和定时任务API实现。 
