@@ -63,16 +63,12 @@
     },
     "10": {
       "question": "Was sind die Nutzungsrechte der KI-Tools?",
-      "answer": "Das Tap4 AI Tools Verzeichnis ist nur das Verzeichnis für KI-Tools. Die Nutzungsrechte der KI-Tools basieren auf der Website der KI-Tools."
-    },
-    "11": {
-      "question": "Ist das WebUI des Tap4 AI Verzeichnisses Open Source?",
-      "answer": "Ja, wir werden das WebUI des Tap4 AI Verzeichnisses auf GitHub (https://github.com/6677-ai/tap4-ai-webui) open source. Bitte geben Sie uns einen Stern."
+      "answer": "Das Shipfaster AI Tools Verzeichnis ist nur das Verzeichnis für KI-Tools. Die Nutzungsrechte der KI-Tools basieren auf der Website der KI-Tools."
     }
   },
   "FooterNavigation": {
     "privacyPolicy": {
-      "1-h1": "Datenschutzrichtlinie für das Tap4 AI Tools Verzeichnis",
+      "1-h1": "Datenschutzrichtlinie für das Shipfaster AI Tools Verzeichnis",
       "1-p": "Diese Seite wird verwendet, um Besucher über meine Richtlinien bezüglich der Sammlung, Verwendung und Offenlegung persönlicher Informationen zu informieren, wenn jemand beschließt, meinen Dienst zu nutzen. Wenn Sie sich entscheiden, meinen Dienst zu nutzen, stimmen Sie der Sammlung und Nutzung von Informationen in Bezug auf diese Richtlinie zu. Die persönlichen Informationen, die ich sammle, werden zur Bereitstellung und Verbesserung des Dienstes verwendet. Ich werde Ihre Informationen außer wie in dieser Datenschutzrichtlinie beschrieben, nicht verwenden oder teilen. Die in dieser Datenschutzrichtlinie verwendeten Begriffe haben die gleichen Bedeutungen wie in unseren Nutzungsbedingungen.",
       "2-h2": "1. Sammlung und Nutzung von Informationen",
       "2-p": "Für eine bessere Erfahrung, während der Nutzung unseres Dienstes, kann ich Sie bitten, uns bestimmte personenbezogene Daten zur Verfügung zu stellen. Die Informationen, die ich anfordere, werden auf Ihrem Gerät gespeichert und in keiner Weise von mir gesammelt. Die App verwendet Drittanbieterdienste, die Informationen sammeln, die zu Ihrer Identifizierung verwendet werden.",
@@ -95,22 +91,22 @@
       "8-p": "Ich kann unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Daher wird Ihnen geraten, diese Seite regelmäßig auf Änderungen zu überprüfen. Ich werde Sie über alle Änderungen informieren, indem ich die neue Datenschutzrichtlinie auf dieser Seite veröffentliche. Diese Änderungen sind sofort nach ihrer Veröffentlichung auf dieser Seite wirksam."
     },
     "termsConditions": {
-      "1-h1": "Nutzungsbedingungen für das Tap4 AI Verzeichnis",
-      "1-p": "Willkommen beim Tap4 AI Verzeichnis! Unsere Website, die unter https://tap4.ai (\"Website\") zu finden ist, ist darauf ausgelegt, Ihnen die Möglichkeit zu bieten, benutzerdefinierte Bilder zu erstellen. Durch den Zugriff auf oder die Nutzung unserer Website stimmen Sie zu, an diese Nutzungsbedingungen (\"Bedingungen\") gebunden zu sein. Wenn Sie mit einem Teil der Bedingungen nicht einverstanden sind, ist es Ihnen untersagt, die Website zu nutzen.",
+      "1-h1": "Nutzungsbedingungen für das Shipfaster AI Verzeichnis",
+      "1-p": "Willkommen beim Shipfaster AI Verzeichnis! Unsere Website, die unter https://shipfaster.online (\"Website\") zu finden ist, ist darauf ausgelegt, Ihnen die Möglichkeit zu bieten, benutzerdefinierte Bilder zu erstellen. Durch den Zugriff auf oder die Nutzung unserer Website stimmen Sie zu, an diese Nutzungsbedingungen (\"Bedingungen\") gebunden zu sein. Wenn Sie mit einem Teil der Bedingungen nicht einverstanden sind, ist es Ihnen untersagt, die Website zu nutzen.",
       "2-h2": "1. Nutzungslizenz",
       "2-p": "Sie erhalten eine begrenzte, nicht exklusive, nicht übertragbare Lizenz zur Nutzung der Website und ihrer Dienste für persönliche, nicht kommerzielle Zwecke. Diese Lizenz umfasst keine Rechte, den Inhalt der Website zu kopieren, zu ändern oder zu verteilen oder ihn für kommerzielle Zwecke ohne unsere vorherige schriftliche Zustimmung zu nutzen.",
       "3-h2": "2. Eigentum",
-      "3-p": "Das Eigentum an Bildern, die aus Text auf der Website erstellt werden, gehört der Person, die das Bild erstellt hat. Tap4.ai beansprucht kein Eigentum an Bildern, die von Benutzern erstellt wurden.",
+      "3-p": "Das Eigentum an Bildern, die aus Text auf der Website erstellt werden, gehört der Person, die das Bild erstellt hat. Shipfaster.online beansprucht kein Eigentum an Bildern, die von Benutzern erstellt wurden.",
       "4-h2": "3. Sammlung von Benutzerdaten",
       "4-p": "Wir sammeln persönliche Daten (Name, E-Mail und Zahlungsinformationen) und nicht persönliche Daten (Web-Cookies), um unsere Dienste zu verbessern. Die Nutzung dieser Daten unterliegt unserer Datenschutzrichtlinie, die Sie unter den Nutzungsbedingungen finden können.",
       "terms-of-service": "terms-of-service",
       "5-h2": "4. Anwendbares Recht",
       "5-p": "Diese Bedingungen unterliegen den Gesetzen der Vereinigten Staaten von Amerika und werden in Übereinstimmung mit diesen ausgelegt, ohne Rücksicht auf deren Kollisionsnormen.",
       "6-h2": "5. Änderungen der Bedingungen",
-      "6-p": "Tap4 AI Verzeichnis behält sich das Recht vor, nach eigenem Ermessen diese Bedingungen jederzeit zu ändern oder zu ersetzen. Wir werden Benutzer über Änderungen per E-Mail benachrichtigen. Ihre fortgesetzte Nutzung der Website nach einer Änderung dieser Bedingungen bedeutet, dass Sie diese Änderungen akzeptieren.",
+      "6-p": "Shipfaster AI Verzeichnis behält sich das Recht vor, nach eigenem Ermessen diese Bedingungen jederzeit zu ändern oder zu ersetzen. Wir werden Benutzer über Änderungen per E-Mail benachrichtigen. Ihre fortgesetzte Nutzung der Website nach einer Änderung dieser Bedingungen bedeutet, dass Sie diese Änderungen akzeptieren.",
       "7-h2": "6. Kontaktinformationen",
       "7-p": "Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte unter contact@6677.ai.",
-      "last-p": "Durch die Nutzung des Tap4 AI Verzeichnisses erklären Sie sich mit diesen Nutzungsbedingungen einverstanden."
+      "last-p": "Durch die Nutzung des Shipfaster AI Verzeichnisses erklären Sie sich mit diesen Nutzungsbedingungen einverstanden."
     }
   },
   "NotFound": {
@@ -118,8 +114,8 @@
     "goHome": "Zur Startseite"
   },
   "Home": {
-    "title": "Tap4 AI - Entdecken Sie die besten AI-Tools 2025",
-    "subTitle": "Erhalten Sie Ihre Lieblings-KI-Tools im Tap4 AI Tools Verzeichnis. Die Liste der KI-Tools wird täglich von GPT-4o aktualisiert. Es ist kostenlos, hier einzureichen, um Ihr SEO jetzt zu verbessern.",
+    "title": "Shipfaster AI - Entdecken Sie die besten AI-Tools 2025",
+    "subTitle": "Erhalten Sie Ihre Lieblings-KI-Tools im Shipfaster AI Tools Verzeichnis. Die Liste der KI-Tools wird täglich von GPT-4o aktualisiert. Es ist kostenlos, hier einzureichen, um Ihr SEO jetzt zu verbessern.",
     "ai-navigate": "AI-Tool-Liste",
     "exploreMore": "Weitere AI-Tools erhalten",
     "checkDetail": "Details anzeigen",
@@ -133,7 +129,7 @@
   },
   "Submit": {
     "title": "Reichen Sie Ihr KI-Tool ein",
-    "subTitle": "Reichen Sie Ihr KI-Tool ein und erhalten Sie Traffic vom Tap4 AI Verzeichnis",
+    "subTitle": "Reichen Sie Ihr KI-Tool ein und erhalten Sie Traffic vom Shipfaster AI Verzeichnis",
     "website": "Webseitenname",
     "url": "Webseiten-URL",
     "submit": "Einreichen",
@@ -144,7 +140,7 @@
   },
   "Startup": {
     "title": "Starten Sie Ihren Startup-Launch",
-    "subTitle": "Die ultimative Liste von Websites, um Ihr Startup online zu starten und zu fördern. Für die Aufnahme in die Liste oder zur Unterstützung bei der Einreichung Ihres Produkts für die kostenlose Liste, senden Sie uns bitte eine E-Mail: contact@tap4.ai.",
+    "subTitle": "Die ultimative Liste von Websites, um Ihr Startup online zu starten und zu fördern. Für die Aufnahme in die Liste oder zur Unterstützung bei der Einreichung Ihres Produkts für die kostenlose Liste, senden Sie uns bitte eine E-Mail: contact@shipfaster.online.",
     "updateTime": "Kuratierte und täglich aktualisierte Liste. Zuletzt aktualisiert:",
     "table": {
       "da": "DA",
@@ -160,26 +156,26 @@
   },
   "Explore": {
     "title": "Entdecken Sie die besten KI-Tools 2025",
-    "subTitle": "Erhalten Sie Ihre Lieblings-KI-Tools im Tap4 AI Tools Verzeichnis. Die Liste der KI-Tools wird täglich von GPT-4o aktualisiert."
+    "subTitle": "Erhalten Sie Ihre Lieblings-KI-Tools im Shipfaster AI Tools Verzeichnis. Die Liste der KI-Tools wird täglich von GPT-4o aktualisiert."
   },
   "Metadata": {
     "home": {
-      "title": "Holen Sie sich Ihre besten KI-Tools | Tap4 AI Verzeichnis",
-      "description": "Das Tap4 AI Verzeichnis ist ein Werkzeug, das ein kostenloses Verzeichnis von KI-Tools bietet. Holen Sie sich Ihre Lieblings-KI-Tools mit dem Tap4 AI Verzeichnis, das darauf abzielt, alle KI-Tools zu sammeln und das Beste für die Benutzer bereitzustellen.",
-      "keywords": "Tap4 AI Verzeichnis"
+      "title": "Holen Sie sich Ihre besten KI-Tools | Shipfaster AI Verzeichnis",
+      "description": "Das Shipfaster AI Verzeichnis ist ein Werkzeug, das ein kostenloses Verzeichnis von KI-Tools bietet. Holen Sie sich Ihre Lieblings-KI-Tools mit dem Shipfaster AI Verzeichnis, das darauf abzielt, alle KI-Tools zu sammeln und das Beste für die Benutzer bereitzustellen.",
+      "keywords": "Shipfaster AI Verzeichnis"
     },
     "ai": {
-      "titleSubfix": "Tap4 AI Verzeichnis"
+      "titleSubfix": "Shipfaster AI Verzeichnis"
     },
     "explore": {
-      "title": "Entdecken Sie die besten KI-Tools 2025 | Tap4 AI Verzeichnis",
-      "titlePrefix": "Erkunden Sie das Tap4 AI Verzeichnis",
-      "titleSuffix": "Tap4 AI Verzeichnis",
-      "description": "Das Tap4 AI Verzeichnis ist ein Werkzeug, das ein kostenloses Verzeichnis von KI-Tools bietet. Holen Sie sich Ihre Lieblings-KI-Tools mit dem Tap4 AI Verzeichnis, das darauf abzielt, alle KI-Tools zu sammeln und das Beste für die Benutzer bereitzustellen.",
-      "keywords": "Tap4 AI Verzeichnis"
+      "title": "Entdecken Sie die besten KI-Tools 2025 | Shipfaster AI Verzeichnis",
+      "titlePrefix": "Erkunden Sie das Shipfaster AI Verzeichnis",
+      "titleSuffix": "Shipfaster AI Verzeichnis",
+      "description": "Das Shipfaster AI Verzeichnis ist ein Werkzeug, das ein kostenloses Verzeichnis von KI-Tools bietet. Holen Sie sich Ihre Lieblings-KI-Tools mit dem Shipfaster AI Verzeichnis, das darauf abzielt, alle KI-Tools zu sammeln und das Beste für die Benutzer bereitzustellen.",
+      "keywords": "Shipfaster AI Verzeichnis"
     },
     "submit": {
-      "title": "Reichen Sie Ihr KI-Tool ein und erhalten Sie Traffic | Tap4 AI Verzeichnis"
+      "title": "Reichen Sie Ihr KI-Tool ein und erhalten Sie Traffic | Shipfaster AI Verzeichnis"
     }
   }
 }

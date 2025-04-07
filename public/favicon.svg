@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- 背景 -->
+  <rect width="512" height="512" fill="#0A192F" rx="64" ry="64"/>
+  
+  <!-- 水波纹 -->
+  <path d="M32 340 C 128 300, 256 380, 480 320" stroke="#3498db" stroke-width="8" fill="none"/>
+  <path d="M32 370 C 192 330, 320 410, 480 350" stroke="#2980b9" stroke-width="6" fill="none"/>
+  
+  <!-- 船 -->
+  <path d="M130 280 L 310 280 L 360 330 L 80 330 Z" fill="#e74c3c"/>
+  <path d="M180 240 L 260 240 L 260 280 L 180 280 Z" fill="#34495e"/>
+  
+  <!-- 速度线条 -->
+  <path d="M370 280 L 430 280" stroke="#f1c40f" stroke-width="12" stroke-linecap="round"/>
+  <path d="M380 260 L 420 260" stroke="#f1c40f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M390 300 L 425 300" stroke="#f1c40f" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- 文字 -->
+  <text x="256" y="420" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#FFFFFF">SHIPFASTER</text>
+  
+  <!-- 点缀元素 -->
+  <circle cx="240" cy="250" r="5" fill="#FFFFFF"/>
+  <circle cx="220" cy="250" r="3" fill="#FFFFFF"/>
+</svg> 
