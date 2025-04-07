@@ -713,8 +713,8 @@ INSERT INTO public.web_navigation (
     name, title, content, detail, url, image_url, thumbnail_url, collection_time, tag_name, website_data, star_rating, category_name
 ) VALUES (
     'woy-ai',
-    'Woy AI Directory: List of the Best & Latest AI Tools in 2024',
-    'Discover the top AI tools of 2024 with the Woy.ai AI Directory! Explore the best and latest innovations in artificial intelligence technology.',
+    'Woy AI Directory: List of the Best & Latest AI Tools in 2025',
+    'Discover the top AI tools of 2025 with the Woy.ai AI Directory! Explore the best and latest innovations in artificial intelligence technology.',
     '
 ### What is Woy AI Directory?
 
@@ -722,12 +722,12 @@ Woy AI Directory is a comprehensive collection of the latest and most effective 
 
 ### How can I use Woy AI Directory?
 
-Woy AI Directory offers a curated list of top AI tools in 2024, including AI search engines, text-to-image generative AI models, video creation tools, and more. Users can explore and discover new AI tools to support various tasks and applications.
+Woy AI Directory offers a curated list of top AI tools in 2025, including AI search engines, text-to-image generative AI models, video creation tools, and more. Users can explore and discover new AI tools to support various tasks and applications.
 
 ### Features of Woy AI Directory
 
 * Comprehensive collection of AI tools across various domains
-* Curated list of top AI tools in 2024
+* Curated list of top AI tools in 2025
 * Supports tech enthusiasts, developers, and businesses
 * Offers a one-stop hub for AI tool discovery
 
@@ -815,7 +815,7 @@ With Runway, you can:
 Runway Research is dedicated to advancing the state of the art in AI research. From Introducing General World Models to mitigating stereotypical biases in text-to-image generative systems, Runway Research is pushing the boundaries of what is possible.
 
 ### What is Runway Studios?
-Runway Studios empowers filmmakers everywhere to achieve their creative vision with AI. With initiatives like AI Film Festival 2024, GEN:48, and Creative Partners Program, Runway Studios celebrates and empowers the next generation of storytellers.
+Runway Studios empowers filmmakers everywhere to achieve their creative vision with AI. With initiatives like AI Film Festival 2025, GEN:48, and Creative Partners Program, Runway Studios celebrates and empowers the next generation of storytellers.
 
 ### How much does Runway cost?
 Try Runway for free, and explore its creative tools designed to turn your ideas into reality. For more information on pricing, please visit our website.
@@ -885,7 +885,7 @@ Every user can utilize Shutterstock vast library of assets, including images, vi
 
 ### Features of Shutterstock
 
-* Over 500,000,000 assets available as of March 31, 2024
+* Over 500,000,000 assets available as of March 31, 2025
 * Includes images, photos, 3D objects, vector illustrations, and AI-generated content
 * Offers a cost-saving subscription with 10 royalty-free image downloads each month
 * Provides access to a vast library of videos and music
@@ -1301,7 +1301,7 @@ INSERT INTO public.web_navigation (
 ) VALUES (
     'mymap-ai',
     'mymap.ai: Mapping Ideas That Change the World',
-    'MyMap turns your text ideas into visuals like mind maps and presentations through a simple chat interface. Ideal for students, teachers, and professionals with no design skills required. It’s your time-saving tool for easy, collaborative visual creation',
+    'MyMap turns your text ideas into visuals like mind maps and presentations through a simple chat interface. Ideal for students, teachers, and professionals with no design skills required. It's your time-saving tool for easy, collaborative visual creation',
     '
 ### What is MyMap.ai?
 MyMap.ai is a platform that turns your text ideas into visuals like mind maps and presentations through a simple chat interface, making it ideal for students, teachers, and professionals with no design skills required.
