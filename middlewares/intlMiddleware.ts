@@ -8,6 +8,14 @@ const intlMiddleware = createMiddleware({
   locales,
   defaultLocale: 'en',
   localePrefix,
+  pathnames: {
+    '/': '/',
+    '/explore': '/explore',
+    '/submit': '/submit',
+    '/startup': '/startup',
+    '/ai/[websiteName]': '/ai/[websiteName]',
+    '/category/[code]': '/category/[code]',
+  },
 });
 
 export default intlMiddleware;
